@@ -1,0 +1,6 @@
+.idea/
+.venv/
+__pycache__/
+*.pyc
+health_check.db
+config.py
